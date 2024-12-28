@@ -1,4 +1,4 @@
-### Hi I'm Drepz a professional Java and C backend developer. 🐧
+### Hi I'm Drepz a professional Java and C backend developer. 🐧 🇧🇷
 
 ### My links:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
