@@ -1,10 +1,12 @@
-### Hi I'm Drepz a professional Java and C backend developer. 🐧 🇧🇷
+### Hi I'm Drepz a professional Java and C backend developer. 🐧
 
 ### My links:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drepz.jar/profilecard/?igsh=b2dlZHFyZjQxMmRj)
+
+<hr/>
 
 ### My technologies:
 
@@ -19,6 +21,8 @@
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img align="center" alt="Mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
+
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drepzin)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
