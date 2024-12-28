@@ -1,4 +1,5 @@
 ### Hi I'm Drepz a professional Java backend developer. 🐧
+### in my repositories you problaly find some cool projects with Java/Spring and some research and studies about low level, algorithms and data-struct and other coolest things, so hands on keyboard and feel free to clone some repos.
 
 ### My links:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
