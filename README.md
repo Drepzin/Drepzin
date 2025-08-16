@@ -1,7 +1,8 @@
-### Hi I'm Drepz a professional Java backend developer. 🐧
-### in my repositories you problaly find some cool projects with Java/Spring, some bash programms and this type of things, so hands on keyboard and feel free to clone some repos.
+### Olá me chamo Drepz sou um desenvolvedor profissional java 🐧
+### em meus repositórios vai encontrar alguns projetos pessoais, projetos open-source, e com certeza algo util pra você.
+### sinta-se a vontade para clonar e usar qualquer um de meus repositorios.
 
-### My links:
+### Meus Links:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )
@@ -9,7 +10,7 @@
 
 <hr/>
 
-### My technologies:
+### Minhas técnologias:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
