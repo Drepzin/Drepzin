@@ -1,5 +1,5 @@
 ### Olá me chamo Drepz sou um desenvolvedor profissional java 🐧
-### em meus repositórios você vai encontrar alguns projetos pessoais, projetos open-source, e com certeza algo util pra você.
+### em meus repositórios você vai encontrar alguns projetos pessoais, projetos de código livre e outros projetos profissionais
 ### sinta-se a vontade para clonar e usar qualquer um de meus repositorios.
 
 ### Meus Links:
